@@ -32,7 +32,7 @@ namespace UnitTest1
         }
 
         [Theory]
-        [InlineData("12\n4", 16)]
+        [InlineData("12\n4", 17)]
         [InlineData("1\n123", 124)]
         public void SumNumbersSepartedByNewLine(string str, int expectedValue)
         {
