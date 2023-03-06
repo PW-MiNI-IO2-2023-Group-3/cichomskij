@@ -1,0 +1,30 @@
+C:\Users\yanci\Desktop\IO2Workshop\IO2Workshop\bin\Debug\net6.0\IO2Workshop.exe
+C:\Users\yanci\Desktop\IO2Workshop\IO2Workshop\bin\Debug\net6.0\IO2Workshop.deps.json
+C:\Users\yanci\Desktop\IO2Workshop\IO2Workshop\bin\Debug\net6.0\IO2Workshop.runtimeconfig.json
+C:\Users\yanci\Desktop\IO2Workshop\IO2Workshop\bin\Debug\net6.0\IO2Workshop.dll
+C:\Users\yanci\Desktop\IO2Workshop\IO2Workshop\bin\Debug\net6.0\IO2Workshop.pdb
+C:\Users\yanci\Desktop\IO2Workshop\IO2Workshop\obj\Debug\net6.0\IO2Workshop.csproj.AssemblyReference.cache
+C:\Users\yanci\Desktop\IO2Workshop\IO2Workshop\obj\Debug\net6.0\IO2Workshop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yanci\Desktop\IO2Workshop\IO2Workshop\obj\Debug\net6.0\IO2Workshop.AssemblyInfoInputs.cache
+C:\Users\yanci\Desktop\IO2Workshop\IO2Workshop\obj\Debug\net6.0\IO2Workshop.AssemblyInfo.cs
+C:\Users\yanci\Desktop\IO2Workshop\IO2Workshop\obj\Debug\net6.0\IO2Workshop.csproj.CoreCompileInputs.cache
+C:\Users\yanci\Desktop\IO2Workshop\IO2Workshop\obj\Debug\net6.0\IO2Workshop.dll
+C:\Users\yanci\Desktop\IO2Workshop\IO2Workshop\obj\Debug\net6.0\refint\IO2Workshop.dll
+C:\Users\yanci\Desktop\IO2Workshop\IO2Workshop\obj\Debug\net6.0\IO2Workshop.pdb
+C:\Users\yanci\Desktop\IO2Workshop\IO2Workshop\obj\Debug\net6.0\IO2Workshop.genruntimeconfig.cache
+C:\Users\yanci\Desktop\IO2Workshop\IO2Workshop\obj\Debug\net6.0\ref\IO2Workshop.dll
+C:\JAN CICHOMSKI\STUDIA\STUDIA_SEMESTR_6_2023_LATO\Inzynieria oprogramowania 2\IO2Workshop\IO2Workshop\bin\Debug\net6.0\IO2Workshop.exe
+C:\JAN CICHOMSKI\STUDIA\STUDIA_SEMESTR_6_2023_LATO\Inzynieria oprogramowania 2\IO2Workshop\IO2Workshop\bin\Debug\net6.0\IO2Workshop.deps.json
+C:\JAN CICHOMSKI\STUDIA\STUDIA_SEMESTR_6_2023_LATO\Inzynieria oprogramowania 2\IO2Workshop\IO2Workshop\bin\Debug\net6.0\IO2Workshop.runtimeconfig.json
+C:\JAN CICHOMSKI\STUDIA\STUDIA_SEMESTR_6_2023_LATO\Inzynieria oprogramowania 2\IO2Workshop\IO2Workshop\bin\Debug\net6.0\IO2Workshop.dll
+C:\JAN CICHOMSKI\STUDIA\STUDIA_SEMESTR_6_2023_LATO\Inzynieria oprogramowania 2\IO2Workshop\IO2Workshop\bin\Debug\net6.0\IO2Workshop.pdb
+C:\JAN CICHOMSKI\STUDIA\STUDIA_SEMESTR_6_2023_LATO\Inzynieria oprogramowania 2\IO2Workshop\IO2Workshop\obj\Debug\net6.0\IO2Workshop.csproj.AssemblyReference.cache
+C:\JAN CICHOMSKI\STUDIA\STUDIA_SEMESTR_6_2023_LATO\Inzynieria oprogramowania 2\IO2Workshop\IO2Workshop\obj\Debug\net6.0\IO2Workshop.GeneratedMSBuildEditorConfig.editorconfig
+C:\JAN CICHOMSKI\STUDIA\STUDIA_SEMESTR_6_2023_LATO\Inzynieria oprogramowania 2\IO2Workshop\IO2Workshop\obj\Debug\net6.0\IO2Workshop.AssemblyInfoInputs.cache
+C:\JAN CICHOMSKI\STUDIA\STUDIA_SEMESTR_6_2023_LATO\Inzynieria oprogramowania 2\IO2Workshop\IO2Workshop\obj\Debug\net6.0\IO2Workshop.AssemblyInfo.cs
+C:\JAN CICHOMSKI\STUDIA\STUDIA_SEMESTR_6_2023_LATO\Inzynieria oprogramowania 2\IO2Workshop\IO2Workshop\obj\Debug\net6.0\IO2Workshop.csproj.CoreCompileInputs.cache
+C:\JAN CICHOMSKI\STUDIA\STUDIA_SEMESTR_6_2023_LATO\Inzynieria oprogramowania 2\IO2Workshop\IO2Workshop\obj\Debug\net6.0\IO2Workshop.dll
+C:\JAN CICHOMSKI\STUDIA\STUDIA_SEMESTR_6_2023_LATO\Inzynieria oprogramowania 2\IO2Workshop\IO2Workshop\obj\Debug\net6.0\refint\IO2Workshop.dll
+C:\JAN CICHOMSKI\STUDIA\STUDIA_SEMESTR_6_2023_LATO\Inzynieria oprogramowania 2\IO2Workshop\IO2Workshop\obj\Debug\net6.0\IO2Workshop.pdb
+C:\JAN CICHOMSKI\STUDIA\STUDIA_SEMESTR_6_2023_LATO\Inzynieria oprogramowania 2\IO2Workshop\IO2Workshop\obj\Debug\net6.0\IO2Workshop.genruntimeconfig.cache
+C:\JAN CICHOMSKI\STUDIA\STUDIA_SEMESTR_6_2023_LATO\Inzynieria oprogramowania 2\IO2Workshop\IO2Workshop\obj\Debug\net6.0\ref\IO2Workshop.dll
